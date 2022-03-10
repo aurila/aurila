@@ -1,8 +1,8 @@
-### Oie!! Sou a Sabrina  👋
+### Oie!! Eu sou a Sabrina  👋
 
 
 
-- 🌱 I’m currently learning Full Stack
+
 
 <div align="center">
   <a href="https://github.com/aurila">
