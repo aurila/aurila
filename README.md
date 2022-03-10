@@ -1,6 +1,8 @@
 ### Oie!! Eu sou a Sabrina  👋
 
 
+💻 Estudando ...
+
 
 
 
