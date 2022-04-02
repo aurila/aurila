@@ -22,6 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </div>
   
+  <div align="center">
+    <h2><a href="https://aurila.github.io/">More about me</a></h2>
+  </div>
+  
  
 
   
